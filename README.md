@@ -2,6 +2,7 @@
 <<<<<<< HEAD
 Test 1
 t2
+t3
 =======
 
 Test Repo changes 1.0
